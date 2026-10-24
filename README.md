@@ -93,4 +93,4 @@ latch scan --file retrieved.txt --indirect; echo $?   # 1 when blocked
 
 ## Licence
 
-MIT © KK (Conan Sultan Khan)
+MIT © Konain Sultan Khan (KK)
